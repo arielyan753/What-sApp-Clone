@@ -1,0 +1,18 @@
+.Layout{
+    background-color: #ededed;
+    box-shadow: -1px 4px 20px -6px #000;
+    display: flex;
+    height: 90%;
+    margin-top: -50px;
+    width: 90%;
+}
+/* .Layout > .sidebar{
+    display: flex;
+    flex-direction: column;
+    flex: 0.35;
+}
+.Layout > .routing{
+    display: flex;
+    flex-direction: column;
+    flex: 0.65;
+} */
